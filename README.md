@@ -1,2 +1,2 @@
-# oslab
+# woosy
 연구
