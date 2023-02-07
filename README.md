@@ -4,4 +4,4 @@
 
 안녕하세요! 
 
-우수연의 Oslab Github repository입니다.
+우수연의 Github repository입니다.
